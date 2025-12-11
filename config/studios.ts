@@ -38,7 +38,7 @@ export const studiosConfig: NicheConfig = {
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🧘", text: "1,200+ studios worldwide" },
+      { icon: "🧘", text: "Trusted by studios worldwide" },
       { icon: "📱", text: "60% fewer no-shows" },
       { icon: "⚡", text: "Live in under 5 minutes" },
     ],
@@ -271,14 +271,14 @@ export const studiosConfig: NicheConfig = {
     enabled: true,
     headline: "Your Next Class Could Be Your Fullest Yet",
     subheadline:
-      "Join 1,200+ studios filling classes effortlessly with StudioFlow. Start free today — your students are already on WhatsApp.",
+      "Join studios worldwide filling classes effortlessly with StudioFlow. Start free today — your students are already on WhatsApp.",
     cta: { text: "Start Your Free Trial", href: "#signup", variant: "primary" },
     secondaryCta: { text: "See It In Action", href: "#demo", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
     logo: { text: "StudioFlow" },
-    tagline: "Full classes. Happy students. Peaceful mind.",
+    tagline: "Full classes. Happy students. Peaceful mind. · A concept by Astral Integration",
     columns: [
       {
         title: "Product",
@@ -293,7 +293,7 @@ export const studiosConfig: NicheConfig = {
         links: [
           { label: "About", href: "/about" },
           { label: "Blog", href: "/blog" },
-          { label: "Careers", href: "/careers" },
+          { label: "Astral Integration", href: "/" },
         ],
       },
       {

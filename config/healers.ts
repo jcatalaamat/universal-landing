@@ -40,7 +40,7 @@ export const healersConfig: NicheConfig = {
     trustBadges: [
       { icon: "🌿", text: "Created by practitioners, for practitioners" },
       { icon: "🔮", text: "Trauma-informed design throughout" },
-      { icon: "🌍", text: "Serving healers in 50+ countries" },
+      { icon: "🌍", text: "Serving healers worldwide" },
     ],
   },
   problem: {
@@ -279,7 +279,7 @@ export const healersConfig: NicheConfig = {
   },
   footer: {
     logo: { text: "SacredSpace" },
-    tagline: "Technology in service of transformation.",
+    tagline: "Technology in service of transformation. · A concept by Astral Integration",
     columns: [
       {
         title: "Platform",
@@ -294,7 +294,7 @@ export const healersConfig: NicheConfig = {
         links: [
           { label: "Blog", href: "/blog" },
           { label: "Podcast", href: "/podcast" },
-          { label: "Free Guide", href: "/guide" },
+          { label: "Astral Integration", href: "/" },
         ],
       },
       {

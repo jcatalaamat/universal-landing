@@ -38,9 +38,9 @@ export const influencersConfig: NicheConfig = {
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🚀", text: "12,000+ creators" },
-      { icon: "💬", text: "75M+ DMs handled" },
-      { icon: "💰", text: "$25M+ creator revenue driven" },
+      { icon: "🚀", text: "Trusted by creators at every stage" },
+      { icon: "💬", text: "Tens of millions of DMs handled" },
+      { icon: "💰", text: "Millions in creator revenue driven" },
     ],
   },
   problem: {
@@ -272,14 +272,14 @@ export const influencersConfig: NicheConfig = {
     enabled: true,
     headline: "Your Audience Deserves a Response. You Deserve a Break.",
     subheadline:
-      "Join 12,000+ creators who cloned themselves and got their time back. Start free today — your first 1,000 DMs are on us.",
+      "Join thousands of creators who cloned themselves and got their time back. Start free today — your first 1,000 DMs are on us.",
     cta: { text: "Create Your Clone Free", href: "#signup", variant: "primary" },
     secondaryCta: { text: "See a Demo First", href: "#demo", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
     logo: { text: "CreatorOS" },
-    tagline: "Scale your influence. Keep your sanity.",
+    tagline: "Scale your influence. Keep your sanity. · A concept by Astral Integration",
     columns: [
       {
         title: "Product",
@@ -294,7 +294,7 @@ export const influencersConfig: NicheConfig = {
         links: [
           { label: "Blog", href: "/blog" },
           { label: "Creator Stories", href: "/stories" },
-          { label: "Free Tools", href: "/tools" },
+          { label: "Astral Integration", href: "/" },
         ],
       },
       {

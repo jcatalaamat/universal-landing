@@ -34,13 +34,13 @@ export const coreConfig: NicheConfig = {
   hero: {
     headline: "Your Work Transforms Lives. Your Systems Should Too.",
     subheadline:
-      "We build custom AI-powered platforms, client portals, and intelligent automations for teachers, coaches, and transformational leaders — so your digital infrastructure finally matches the depth of your work.",
+      "We build custom AI-powered platforms, client portals, and intelligent automations for teachers, coaches, and transformational leaders — so your digital infrastructure finally matches the depth of your work. Technology that honors the depth of your work and the people you serve.",
     cta: { text: "Request Your AI Blueprint", href: "#contact", variant: "primary" },
     secondaryCta: { text: "See Our Work", href: "#use-cases", variant: "outline" },
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🧘", text: "Built for transformational work" },
+      { icon: "🧘", text: "Trusted by coaches, therapists, teachers, and healing practitioners worldwide" },
       { icon: "🤖", text: "AI-native architecture" },
       { icon: "🔧", text: "Custom-built, not cookie-cutter" },
     ],

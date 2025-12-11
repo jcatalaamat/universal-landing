@@ -9,7 +9,7 @@ export const coachesConfig: NicheConfig = {
   seo: {
     title: "Double Your Coaching Revenue Without Adding Hours | CoachPro",
     description:
-      "The client management system that helped 500+ coaches reclaim 10+ hours per week. Automated scheduling, payments, and AI session notes — so you can focus entirely on transformation.",
+      "The client management system that helps coaches reclaim 10+ hours per week. Automated scheduling, payments, and AI session notes — so you can focus entirely on transformation.",
     keywords: [
       "coaching platform",
       "life coach software",
@@ -38,7 +38,7 @@ export const coachesConfig: NicheConfig = {
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "⭐", text: "4.9/5 from 500+ coaches" },
+      { icon: "⭐", text: "Loved by coaches worldwide" },
       { icon: "🔒", text: "Bank-level security" },
       { icon: "⚡", text: "Setup in under 10 minutes" },
     ],
@@ -271,7 +271,7 @@ export const coachesConfig: NicheConfig = {
     enabled: true,
     headline: "Your Next Client Is Waiting. Your Calendar Shouldn't Be.",
     subheadline:
-      "Join 500+ coaches who stopped drowning in admin and started building the practice they actually wanted. Free for 14 days. No credit card required.",
+      "Join coaches worldwide who stopped drowning in admin and started building the practice they actually wanted. Free for 14 days. No credit card required.",
     cta: { text: "Start Your Free Trial Now", href: "#signup", variant: "primary" },
     secondaryCta: {
       text: "See It In Action First",
@@ -282,7 +282,7 @@ export const coachesConfig: NicheConfig = {
   },
   footer: {
     logo: { text: "CoachPro" },
-    tagline: "Less admin. More transformation.",
+    tagline: "Less admin. More transformation. · A concept by Astral Integration",
     columns: [
       {
         title: "Product",
@@ -298,8 +298,7 @@ export const coachesConfig: NicheConfig = {
         links: [
           { label: "About", href: "/about" },
           { label: "Blog", href: "/blog" },
-          { label: "Careers", href: "/careers" },
-          { label: "Press", href: "/press" },
+          { label: "Astral Integration", href: "/" },
         ],
       },
       {

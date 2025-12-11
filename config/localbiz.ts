@@ -38,9 +38,9 @@ export const localbizConfig: NicheConfig = {
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🏪", text: "5,000+ local businesses" },
+      { icon: "🏪", text: "Trusted by local businesses everywhere" },
       { icon: "⭐", text: "Average 0.8 star rating boost" },
-      { icon: "💬", text: "2M+ conversations handled" },
+      { icon: "💬", text: "Millions of conversations handled" },
     ],
   },
   problem: {
@@ -270,14 +270,14 @@ export const localbizConfig: NicheConfig = {
     enabled: true,
     headline: "Every Missed Message Is a Missed Customer",
     subheadline:
-      "Join 5,000+ local businesses using LocalBot to capture every opportunity, 24/7. Start your free trial today — setup takes 15 minutes.",
+      "Join thousands of local businesses using LocalBot to capture every opportunity, 24/7. Start your free trial today — setup takes 15 minutes.",
     cta: { text: "Start Your Free Trial", href: "#signup", variant: "primary" },
     secondaryCta: { text: "Watch the Demo", href: "#demo", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
     logo: { text: "LocalBot" },
-    tagline: "Your 24/7 AI employee for local business.",
+    tagline: "Your 24/7 AI employee for local business. · A concept by Astral Integration",
     columns: [
       {
         title: "Product",
@@ -294,7 +294,7 @@ export const localbizConfig: NicheConfig = {
           { label: "Restaurants", href: "/restaurants" },
           { label: "Hotels", href: "/hotels" },
           { label: "Retail", href: "/retail" },
-          { label: "Services", href: "/services" },
+          { label: "Astral Integration", href: "/" },
         ],
       },
       {

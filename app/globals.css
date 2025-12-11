@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 24 95% 53%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+  }
+
+  /* Coaches theme (default) */
+  [data-theme="coaches"] {
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --accent: 24 95% 53%;
+    --accent-foreground: 0 0% 100%;
+  }
+
+  /* Studios theme - Purple/Lavender */
+  [data-theme="studios"] {
+    --primary: 262 83% 58%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 280 87% 65%;
+    --accent-foreground: 0 0% 100%;
+    --secondary: 262 30% 96%;
+    --secondary-foreground: 262 83% 30%;
+  }
+
+  /* Healers theme - Green/Teal */
+  [data-theme="healers"] {
+    --primary: 158 64% 40%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 172 66% 50%;
+    --accent-foreground: 0 0% 100%;
+    --secondary: 158 30% 96%;
+    --secondary-foreground: 158 64% 25%;
+  }
+
+  /* Local Business theme - Blue/Amber */
+  [data-theme="localbiz"] {
+    --primary: 221 83% 53%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 0%;
+    --secondary: 221 30% 96%;
+    --secondary-foreground: 221 83% 30%;
+  }
+
+  /* Influencers theme - Pink/Purple gradient style */
+  [data-theme="influencers"] {
+    --primary: 330 81% 60%;
+    --primary-foreground: 0 0% 100%;
+    --accent: 280 87% 65%;
+    --accent-foreground: 0 0% 100%;
+    --secondary: 330 30% 96%;
+    --secondary-foreground: 330 81% 30%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

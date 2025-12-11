@@ -235,6 +235,7 @@ export interface NicheConfig {
 // NICHE REGISTRY
 // ============================================
 export type NicheSlug =
+  | "core"
   | "coaches"
   | "studios"
   | "healers"
@@ -242,6 +243,7 @@ export type NicheSlug =
   | "influencers";
 
 export const VALID_NICHES: NicheSlug[] = [
+  "core",
   "coaches",
   "studios",
   "healers",

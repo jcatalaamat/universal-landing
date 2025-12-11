@@ -73,6 +73,27 @@
     --secondary: 330 30% 96%;
     --secondary-foreground: 330 81% 30%;
   }
+
+  /* Core/Astral theme - Dark spiritual-tech */
+  [data-theme="core"] {
+    --background: 234 47% 4%;
+    --foreground: 210 40% 98%;
+    --card: 234 35% 8%;
+    --card-foreground: 210 40% 98%;
+    --popover: 234 35% 8%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 262 83% 58%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 234 30% 15%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 234 30% 12%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 45 93% 47%;
+    --accent-foreground: 0 0% 0%;
+    --border: 234 30% 18%;
+    --input: 234 30% 18%;
+    --ring: 262 83% 58%;
+  }
 }
 
 @layer base {

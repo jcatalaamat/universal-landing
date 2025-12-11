@@ -7,15 +7,16 @@ export const healersConfig: NicheConfig = {
     style: "elegant",
   },
   seo: {
-    title: "Grow Your Healing Practice | SacredSpace",
+    title: "A Digital Home for Your Healing Work | SacredSpace",
     description:
-      "The platform designed for spiritual teachers, energy healers, and ceremony facilitators. Integration support, membership portals, and course funnels.",
+      "The platform built by healers, for healers. Membership portals, integration support, ceremony management, and aligned commerce — so your medicine can reach more souls without losing its essence.",
     keywords: [
       "healer platform",
       "spiritual teacher software",
       "energy healing business",
-      "ceremony facilitation",
-      "integration coaching",
+      "ceremony facilitation tools",
+      "integration coaching platform",
+      "conscious business technology",
     ],
     ogImage: "/og/healers.jpg",
   },
@@ -26,111 +27,111 @@ export const healersConfig: NicheConfig = {
       { label: "Pricing", href: "#pricing" },
       { label: "FAQ", href: "#faq" },
     ],
-    cta: { text: "Start Your Journey", href: "#signup", variant: "primary" },
+    cta: { text: "Begin Your Journey", href: "#signup", variant: "primary" },
   },
   hero: {
-    headline: "Honor Your Calling. Scale Your Impact. Serve More Souls.",
+    headline: "Your Medicine Deserves a Vessel Worthy of Its Depth",
     subheadline:
-      "The platform that handles the business side of healing so you can stay in your gift. Integration support, community building, and sacred commerce.",
-    cta: { text: "Begin Your Journey", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "Explore Features", href: "#features", variant: "outline" },
+      "SacredSpace holds the business side of healing — memberships, integration, scheduling, payments — so you can stay fully present in your gift. Technology in service of spirit.",
+    cta: { text: "Create Your Sacred Space", href: "#signup", variant: "primary" },
+    secondaryCta: { text: "See How It Works", href: "#features", variant: "outline" },
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🌿", text: "Built by healers, for healers" },
-      { icon: "🔮", text: "Trauma-informed design" },
-      { icon: "🌍", text: "Serving 50+ countries" },
+      { icon: "🌿", text: "Created by practitioners, for practitioners" },
+      { icon: "🔮", text: "Trauma-informed design throughout" },
+      { icon: "🌍", text: "Serving healers in 50+ countries" },
     ],
   },
   problem: {
     enabled: true,
-    sectionTitle: "The Healer's Paradox",
+    sectionTitle: "You Hold Space for Everyone. Who Holds Space for Your Practice?",
     sectionSubtitle:
-      "You're here to hold space for others, but who holds space for your business?",
+      "The paradox of healing work: the more people you serve, the more the business side threatens to pull you from your gift.",
     problems: [
       {
         icon: "⚖️",
-        title: "Sacred Work, Mundane Tasks",
+        title: "Sacred Work, Scattered Systems",
         description:
-          "You spent years developing your gifts, but now spend hours on scheduling, emails, and invoices.",
+          "You spent years cultivating your gifts. Now you spend hours on scheduling, invoices, and email. The admin never rests, even when you desperately need to.",
       },
       {
         icon: "🌊",
-        title: "Integration Falls Through",
+        title: "Integration Left to Chance",
         description:
-          "Participants leave ceremonies transformed but struggle alone. You want to support them but can't scale 1:1 care.",
+          "Participants leave ceremony transformed — then struggle alone. You feel the call to support them, but you can't scale presence. The most critical phase gets the least structure.",
       },
       {
         icon: "🏝️",
-        title: "Community Scattered",
+        title: "Community Without Container",
         description:
-          "Your tribe is spread across WhatsApp groups, email lists, and social platforms. No sacred container for connection.",
+          "Your people are scattered across WhatsApp, email, Instagram, and random platforms. There's no cohesive space where your tribe can gather, connect, and grow together.",
       },
       {
         icon: "💫",
-        title: "Undervaluing Your Gifts",
+        title: "The Money Wound",
         description:
-          "Pricing feels awkward. Asking for money triggers guilt. Your practice struggles financially.",
+          "Pricing feels heavy. Asking for fair exchange triggers guilt. You oscillate between undercharging and avoidance — and your practice suffers financially while your gifts remain undervalued.",
       },
     ],
     layout: "grid",
   },
   solution: {
     enabled: true,
-    sectionTitle: "Technology in Service of Spirit",
-    sectionSubtitle: "Tools that honor the sacred while handling the practical.",
+    sectionTitle: "Technology as Offering",
+    sectionSubtitle: "Systems that serve the sacred — never the other way around.",
     solutions: [
       {
         icon: "🤖",
         title: "AI Integration Companion",
         description:
-          "Participants receive personalized integration support via chat. Available 24/7, trained on your teachings.",
+          "Your participants receive personalized integration support between sessions — grounding practices, journaling prompts, wisdom from your teachings. Available when they need it, trained in your voice.",
       },
       {
         icon: "🏛️",
-        title: "Sacred Membership Portals",
+        title: "Your Digital Temple",
         description:
-          "Beautiful, private spaces for your community. Courses, meditations, and live circles in one place.",
+          "A beautiful, private space for your community. Courses, meditations, live circles, and resources — all gathered in one sacred container that reflects the depth of your work.",
       },
       {
         icon: "📿",
-        title: "Ceremony Management",
+        title: "Ceremony Flow",
         description:
-          "Applications, screening, payments, and preparation materials - all automated with care.",
+          "Applications, screening, preparation materials, and follow-up — all automated with care. The logistics handled with reverence, so you can hold the space that matters.",
       },
       {
         icon: "💎",
-        title: "Aligned Commerce",
+        title: "Aligned Exchange",
         description:
-          "Sliding scale pricing, energy exchange options, and payment plans. Abundance without compromise.",
+          "Sliding scale options. Payment plans. Energy exchange possibilities. A commerce system built for abundance without compromise — so money becomes ally, not obstacle.",
       },
     ],
     layout: "grid-4",
   },
   howItWorks: {
     enabled: true,
-    sectionTitle: "Your Path Forward",
-    sectionSubtitle: "Simple steps to amplify your impact.",
+    sectionTitle: "Three Steps to Sovereign Practice",
+    sectionSubtitle: "Simple setup. Profound impact.",
     steps: [
       {
         stepNumber: 1,
-        title: "Create Your Temple",
+        title: "Design Your Temple",
         description:
-          "Set up your digital sanctuary. Upload teachings, create offerings, and design your community space.",
+          "Upload your teachings. Create your offerings. Shape your community space. We guide you through every step — no technical background needed.",
         icon: "🏛️",
       },
       {
         stepNumber: 2,
-        title: "Welcome Your Tribe",
+        title: "Invite Your People",
         description:
-          "Invite participants to your portal. They access everything in one sacred container.",
+          "Open the doors to your community. Participants access everything — courses, resources, ceremonies, connection — in one sacred container.",
         icon: "🤝",
       },
       {
         stepNumber: 3,
-        title: "Serve & Scale",
+        title: "Serve at Scale",
         description:
-          "AI handles integration support. Automation handles logistics. You focus on ceremony and teaching.",
+          "AI supports integration. Automation handles logistics. You remain fully present for the moments that require your medicine — ceremony, teaching, deep work.",
         icon: "✨",
       },
     ],
@@ -138,58 +139,58 @@ export const healersConfig: NicheConfig = {
   },
   useCases: {
     enabled: true,
-    sectionTitle: "For Every Healing Modality",
-    sectionSubtitle: "Whether you guide ceremonies, teach, or hold space.",
+    sectionTitle: "For Every Path of Healing",
+    sectionSubtitle: "Whether you guide ceremonies, teach wisdom, or hold space for transformation.",
     useCases: [
       {
         title: "Ceremony Facilitators",
         description:
-          "Manage applications, screening calls, preparation, and integration with grace and professionalism.",
+          "From application to integration — the full journey supported. Screening, preparation, payment, follow-up, and ongoing integration all flow seamlessly while you focus on the sacred work.",
         testimonial: {
           quote:
-            "The integration companion has transformed my work. Participants feel held between ceremonies, and I can actually rest.",
-          author: "Maria C.",
-          role: "Plant Medicine Facilitator",
+            "The integration companion changed everything. Participants feel held between ceremonies, and I finally have space to rest. My capacity doubled without my presence being diluted.",
+          author: "Maria Celestina",
+          role: "Plant Medicine Facilitator, Costa Rica",
         },
       },
       {
-        title: "Spiritual Teachers",
+        title: "Wisdom Teachers",
         description:
-          "Deliver courses, host live teachings, and build community around your wisdom tradition.",
+          "Deliver courses, host live teachings, and build community around your lineage. Your wisdom transmission gains structure without losing soul.",
         testimonial: {
           quote:
-            "I went from scattered PDFs and Zoom links to a beautiful, cohesive learning journey. My students are thriving.",
-          author: "Ram D.",
-          role: "Meditation Teacher",
+            "I went from scattered PDFs and disconnected Zoom links to a cohesive learning journey. My students stay longer, go deeper, and refer others. The container holds.",
+          author: "Ram Dass Kapoor",
+          role: "Meditation & Vedanta Teacher",
         },
       },
       {
-        title: "Energy Healers",
+        title: "Energy Workers & Bodyworkers",
         description:
-          "Book sessions, send pre-session forms, and provide ongoing support between appointments.",
+          "Booking, intake forms, pre-session preparation, and post-session integration — automated with sensitivity. Your clients feel held before they even arrive.",
         testimonial: {
           quote:
-            "The sliding scale pricing feature lets me serve everyone without burning out. True abundance.",
-          author: "Luna B.",
-          role: "Reiki Master",
+            "The sliding scale feature lets me serve those called to the work regardless of means. Real abundance — full practice, diverse community, sustainable income.",
+          author: "Luna Brightheart",
+          role: "Reiki Master & Sound Healer",
         },
       },
     ],
   },
   pricing: {
     enabled: true,
-    sectionTitle: "Investment in Your Impact",
-    sectionSubtitle: "Pricing that honors both abundance and accessibility.",
+    sectionTitle: "An Investment in Your Impact",
+    sectionSubtitle: "Pricing rooted in abundance. Options for every stage of practice.",
     plans: [
       {
         name: "Seedling",
         price: "$0",
         period: "/month",
-        description: "For healers just beginning their journey",
+        description: "For healers planting first roots",
         features: [
           "Basic membership portal",
-          "Up to 25 members",
-          "Simple scheduling",
+          "Up to 25 community members",
+          "Simple scheduling + booking",
           "Payment processing",
           "Email support",
         ],
@@ -199,17 +200,17 @@ export const healersConfig: NicheConfig = {
         name: "Flowering",
         price: "$67",
         period: "/month",
-        description: "For established practitioners",
+        description: "For practices ready to bloom",
         features: [
-          "Full membership portal",
+          "Full-featured portal + community",
           "Unlimited members",
           "AI integration companion",
-          "Course hosting",
-          "Ceremony management",
-          "Sliding scale payments",
-          "Priority support",
+          "Course + program hosting",
+          "Ceremony management flow",
+          "Sliding scale + payment plans",
+          "Priority support from practitioners",
         ],
-        cta: { text: "Start Growing", href: "#signup", variant: "primary" },
+        cta: { text: "Begin Flowering", href: "#signup", variant: "primary" },
         highlighted: true,
         badge: "Most Chosen",
       },
@@ -217,63 +218,63 @@ export const healersConfig: NicheConfig = {
         name: "Fruiting",
         price: "$197",
         period: "/month",
-        description: "For retreat centers & organizations",
+        description: "For centers, schools + organizations",
         features: [
           "Everything in Flowering",
-          "Multiple facilitators",
-          "Custom AI training",
-          "White-label portal",
-          "Advanced analytics",
-          "Dedicated support",
+          "Multiple facilitators + teachers",
+          "Custom AI training on your methods",
+          "White-label portal option",
+          "Advanced analytics + insights",
+          "Dedicated practitioner support",
         ],
-        cta: { text: "Let's Talk", href: "#contact", variant: "outline" },
+        cta: { text: "Let's Connect", href: "#contact", variant: "outline" },
       },
     ],
   },
   faq: {
     enabled: true,
-    sectionTitle: "Questions From the Heart",
-    sectionSubtitle: "We understand the unique nature of healing work.",
+    sectionTitle: "Questions from the Heart",
+    sectionSubtitle: "We understand the unique nature of this work. Here's what healers ask most.",
     faqs: [
       {
-        question: "Is this appropriate for sacred/ceremonial work?",
+        question: "Is this appropriate for sacred and ceremonial work?",
         answer:
-          "Yes. We've designed every feature with trauma-informed principles and the sacred nature of this work in mind. Nothing feels corporate or clinical.",
+          "We built SacredSpace specifically for this purpose. Every feature was designed with trauma-informed principles and deep respect for the sacred. Nothing feels corporate, clinical, or extractive. The technology disappears — what remains is your work, held well.",
       },
       {
-        question: "How does the AI integration companion work?",
+        question: "How does the AI integration companion actually work?",
         answer:
-          "It's trained on your teachings and integration principles. Participants can chat with it for support, journaling prompts, and grounding techniques. You review conversations and can intervene when needed.",
+          "It's trained on your teachings, your integration philosophy, your voice. Participants can chat with it for grounding practices, journaling prompts, and support between sessions. You review conversations and can intervene anytime. It extends your presence without replacing it.",
       },
       {
-        question: "Can I offer sliding scale or energy exchange?",
+        question: "Can I truly offer sliding scale and energy exchange?",
         answer:
-          "Absolutely. Our payment system supports sliding scale with suggested minimums, payment plans, and even work-exchange arrangements.",
+          "Yes — this was essential to us. Set your suggested price, your minimum, and your maximum. Offer payment plans over months. Create work-exchange arrangements. The system tracks everything cleanly. Abundance and accessibility, together.",
       },
       {
-        question: "What about participant privacy and confidentiality?",
+        question: "How do you handle participant privacy and confidentiality?",
         answer:
-          "Privacy is paramount. All data is encrypted, we never share information, and you control what's collected. HIPAA-compliant options available.",
+          "With the gravity it deserves. All data encrypted in transit and at rest. We never share or sell information. You control exactly what's collected. HIPAA-compliant options available. Trust is the foundation — we don't compromise it.",
       },
       {
-        question: "I'm not technical. Can I still use this?",
+        question: "I'm not technical at all. Can I really use this?",
         answer:
-          "Yes! We built this for healers, not techies. Setup is guided, and our support team includes people who understand this work.",
+          "SacredSpace was built for healers, not developers. Setup is guided and gentle. Our support team includes practitioners who understand this work — they speak your language. Most healers are fully operational within a day.",
       },
       {
-        question: "Do you offer scholarships or discounts?",
+        question: "Do you offer support for those serving underresourced communities?",
         answer:
-          "Yes. We offer discounted rates for healers serving underserved communities. Reach out to discuss your situation.",
+          "Yes. We offer reduced rates for healers whose primary service is to underserved populations. This isn't charity — it's alignment. Reach out and share your situation. We'll find a way.",
       },
     ],
   },
   finalCta: {
     enabled: true,
-    headline: "Your Gifts Deserve to Reach More Souls",
+    headline: "Your Gifts Are Meant to Reach More Souls",
     subheadline:
-      "Join the community of healers using SacredSpace to scale their impact with integrity.",
+      "The right structure doesn't diminish the sacred — it amplifies it. Create your SacredSpace and let your medicine travel further than ever before.",
     cta: { text: "Begin Your Journey", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "Book a Heart-to-Heart", href: "#call", variant: "outline" },
+    secondaryCta: { text: "Book a Heart-to-Heart Call", href: "#call", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {

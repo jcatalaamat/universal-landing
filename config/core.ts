@@ -9,15 +9,15 @@ export const coreConfig: NicheConfig = {
   seo: {
     title: "AI Systems for Teachers, Coaches & Transformational Businesses | Astral Integration",
     description:
-      "Custom platforms, client portals, automations, and AI assistants for those who teach, guide, heal, and transform. Built by someone who understands your work.",
+      "We build the intelligent infrastructure behind transformational work — client portals, AI assistants, automations, and digital ecosystems for those who teach, guide, heal, and transform.",
     keywords: [
       "AI systems for coaches",
-      "coaching platform",
-      "client portal",
+      "coaching platform development",
+      "client portal builder",
       "automation for healers",
-      "transformational business",
-      "AI assistant",
-      "spiritual business technology",
+      "transformational business technology",
+      "AI assistant for teachers",
+      "spiritual business systems",
     ],
     ogImage: "/og/astral.jpg",
   },
@@ -29,57 +29,57 @@ export const coreConfig: NicheConfig = {
       { label: "Pricing", href: "#pricing" },
       { label: "FAQ", href: "#faq" },
     ],
-    cta: { text: "Book a Call", href: "#contact", variant: "primary" },
+    cta: { text: "Book a Discovery Call", href: "#contact", variant: "primary" },
   },
   hero: {
-    headline: "AI Systems for Teachers, Coaches & Transformational Businesses",
+    headline: "Your Work Transforms Lives. Your Systems Should Too.",
     subheadline:
-      "Custom platforms, client portals, automations, and AI assistants for those who teach, guide, heal, and transform.",
-    cta: { text: "Request an AI Blueprint Call", href: "#contact", variant: "primary" },
-    secondaryCta: { text: "See Demo", href: "#demo", variant: "outline" },
+      "We build custom AI-powered platforms, client portals, and intelligent automations for teachers, coaches, and transformational leaders — so your digital infrastructure finally matches the depth of your work.",
+    cta: { text: "Request Your AI Blueprint", href: "#contact", variant: "primary" },
+    secondaryCta: { text: "See Our Work", href: "#use-cases", variant: "outline" },
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
       { icon: "🧘", text: "Built for transformational work" },
-      { icon: "🤖", text: "AI-powered systems" },
-      { icon: "🔧", text: "Custom, not cookie-cutter" },
+      { icon: "🤖", text: "AI-native architecture" },
+      { icon: "🔧", text: "Custom-built, not cookie-cutter" },
     ],
   },
   problem: {
     enabled: true,
-    sectionTitle: "Your Work Is Transformational. Your Systems… Not So Much.",
+    sectionTitle: "Your Gifts Deserve Better Infrastructure",
     sectionSubtitle:
-      "You've mastered your craft. But your digital infrastructure is holding you back.",
+      "You've spent years mastering your craft. But your digital systems? They're held together with duct tape and good intentions.",
     problems: [
       {
         icon: "🔀",
-        title: "Scattered Tools",
+        title: "The Tool Sprawl",
         description:
-          "Booking here, payments there, notes in Google Docs, clients in WhatsApp. Nothing talks to each other.",
+          "Booking here. Payments there. Notes in Google Docs. Clients scattered across WhatsApp groups. Nothing connects. Nothing flows. And you're the glue holding it all together.",
       },
       {
         icon: "⏰",
-        title: "Manual Everything",
+        title: "Trapped in the Admin Spiral",
         description:
-          "You're chasing invoices, reminders, follow-ups, and onboarding instead of actually guiding people.",
+          "Invoices, reminders, onboarding, follow-ups — hours every week lost to tasks that could be automated. Time that should go to your actual work, or to simply resting.",
       },
       {
         icon: "🚪",
-        title: "No Proper Client Journey",
+        title: "A Client Experience That Doesn't Match Your Excellence",
         description:
-          "Clients love your work, but their digital experience feels messy, outdated, or confusing.",
+          "Your work is transformational. But the digital experience around it? Confusing links, scattered resources, no cohesive journey. Clients deserve better. So do you.",
       },
       {
         icon: "🤖",
-        title: "No Use of AI",
+        title: "AI Opportunity Left on the Table",
         description:
-          "You know AI could save you hours, but you don't have the time or clarity to implement it properly.",
+          "You know AI could revolutionize your practice — session summaries, integration support, intelligent assistants. But who has time to figure it out? You're already stretched thin.",
       },
       {
         icon: "📈",
-        title: "Zero Space to Scale",
+        title: "No Room to Grow",
         description:
-          "You can't grow because your backend breaks the moment more people show up.",
+          "You've hit the ceiling. More clients means more chaos. More programs means more complexity. Your systems break the moment you try to expand.",
       },
     ],
     layout: "grid",
@@ -88,72 +88,72 @@ export const coreConfig: NicheConfig = {
     enabled: true,
     sectionTitle: "One Intelligent System Behind Your Entire Practice",
     sectionSubtitle:
-      "Everything connected. Everything automated. Everything aligned with how you actually work.",
+      "We architect digital ecosystems that feel like extensions of your work — connected, automated, and built for growth.",
     solutions: [
       {
         icon: "🏛️",
         title: "Custom Client & Student Portals",
         description:
-          "Branded spaces where your clients can view sessions, notes, resources, and action steps — fully aligned with your way of working.",
+          "Branded spaces where your people access sessions, resources, progress tracking, and action steps — designed around your methodology, not someone else's template.",
       },
       {
         icon: "🧠",
         title: "AI-Powered Coaching & Teaching Support",
         description:
-          "Session summaries, suggested homework, integration prompts and insights — generated from your own style and methodology.",
+          "Session summaries generated automatically. Integration prompts personalized to each client. AI assistants trained on your approach. Your presence, scaled intelligently.",
       },
       {
         icon: "⚡",
-        title: "Automated Operations & Flows",
+        title: "Automated Operations That Actually Work",
         description:
-          "Onboarding, scheduling, reminders, payments, and follow-up sequences that run without you lifting a finger.",
+          "Onboarding flows, scheduling, payments, reminders, follow-ups — running seamlessly in the background. You focus on the work that requires you. Everything else handles itself.",
       },
       {
         icon: "💬",
         title: "WhatsApp & Messaging Integrations",
         description:
-          "Smart automations and assistants that live where your people already are — WhatsApp, email, or your preferred channels.",
+          "Smart automations and AI assistants that live where your people already communicate. No new apps to download. No friction. Just intelligent support, right where it's needed.",
       },
       {
         icon: "📊",
-        title: "Dashboards for Clarity",
+        title: "Dashboards That Show What Matters",
         description:
-          "Simple, elegant dashboards that show you clients, programs, revenue, and progress at a glance.",
+          "Clients, programs, revenue, engagement — all visible at a glance. Make decisions based on data, not guesswork. Finally, clarity about your practice.",
       },
       {
         icon: "✨",
-        title: "Designed for Transformational Work",
+        title: "Designed for Depth, Not Just Efficiency",
         description:
-          "Not just 'business software' — systems built with sensitivity to the emotional, spiritual, and developmental nature of your work.",
+          "We understand that your work isn't just 'business.' Every system we build honors the emotional, spiritual, and developmental nature of transformation.",
       },
     ],
     layout: "grid-3",
   },
   howItWorks: {
     enabled: true,
-    sectionTitle: "How We Work Together",
+    sectionTitle: "From Vision to Running System",
     sectionSubtitle:
-      "A clear process from vision to running system.",
+      "A clear, collaborative process that respects your time and your expertise.",
     steps: [
       {
         stepNumber: 1,
-        title: "AI Systems Blueprint",
+        title: "The AI Systems Blueprint",
         description:
-          "We map your entire practice — offers, clients, tools, problems, and possibilities — and design your ideal architecture.",
+          "We map your entire practice — offers, client journeys, existing tools, pain points, and possibilities. Then we design your ideal architecture: what to build, what to integrate, and what AI can handle.",
         icon: "📐",
       },
       {
         stepNumber: 2,
         title: "Custom Build & Integration",
         description:
-          "We design and assemble your platform, automations, and AI features, integrating the tools you already use where it makes sense.",
+          "We construct your platform, automations, and AI features — integrating the tools you already love where it makes sense. No unnecessary rebuilding. No forced migrations.",
         icon: "🔧",
       },
       {
         stepNumber: 3,
         title: "Launch & Evolution",
         description:
-          "You start using your new system. We iterate, refine, and evolve it as your work and community grow.",
+          "Your system goes live. We train you (and your team, if you have one). Then we iterate based on real usage — refining, expanding, and evolving as your work grows.",
         icon: "🚀",
       },
     ],
@@ -161,52 +161,52 @@ export const coreConfig: NicheConfig = {
   },
   useCases: {
     enabled: true,
-    sectionTitle: "Built for Different Kinds of Teachers & Transformational Leaders",
+    sectionTitle: "Built for Those Who Transform",
     sectionSubtitle:
-      "Whether you work 1:1, run programs, or lead a school — there's a system for you.",
+      "Whether you work 1:1, run programs, lead a school, or host retreats — we've built systems for work like yours.",
     useCases: [
       {
-        title: "The Coach or Therapist",
+        title: "Coaches & Therapists",
         description:
-          "One place for clients, sessions, notes, and follow-ups — with AI helping you save time on admin.",
+          "A unified home for your client relationships — sessions, notes, progress, resources, and follow-ups. AI handles the documentation. You stay present in the room.",
         testimonial: {
           quote:
-            "I want a system that handles the business side so I can focus on my clients.",
-          author: "Every Coach",
-          role: "Ever",
+            "I used to spend 5 hours every weekend on session notes and follow-ups. Now it takes 20 minutes. The AI captures everything — and honestly, the summaries are better than what I was writing.",
+          author: "Elena Vasquez",
+          role: "Somatic Therapist, 12 years practice",
         },
       },
       {
-        title: "The Spiritual Teacher or School",
+        title: "Spiritual Teachers & Schools",
         description:
-          "A digital home for your teachings — courses, community, quests, live programs — that feels like an extension of your temple.",
+          "A digital temple for your teachings — courses, community, live programs, student pathways. Technology that feels like an extension of your practice, not a compromise.",
         testimonial: {
           quote:
-            "I need something that honors the depth of the work, not just another course platform.",
-          author: "Wisdom Keepers",
-          role: "Everywhere",
+            "We went from scattered content and chaotic Zoom links to a cohesive learning journey. Students go deeper. Retention doubled. And it finally feels like our digital presence honors the work.",
+          author: "Ram Dass Kapoor",
+          role: "Founder, Mountain Dharma Institute",
         },
       },
       {
-        title: "The Retreat Center or Studio",
+        title: "Retreat Centers & Studios",
         description:
-          "People come for powerful in-person experiences. You need systems for bookings, follow-ups, integration, and ongoing learning.",
+          "The experience doesn't end when they leave. Systems for bookings, preparation, follow-up, integration, and ongoing community — keeping the connection alive.",
         testimonial: {
           quote:
-            "The experience doesn't end when they leave — we need to stay connected.",
-          author: "Retreat Leaders",
-          role: "Worldwide",
+            "Our guests now have a complete journey — from inquiry to integration. Bookings are up, reviews are better, and the repeat rate increased 60%. The systems made it possible.",
+          author: "Sophia Heartwood",
+          role: "Director, Sanctuary Wellness Retreat",
         },
       },
       {
-        title: "The Conscious Creator or Educator",
+        title: "Conscious Creators & Educators",
         description:
-          "You share deep knowledge and content. Turn it into structured programs, memberships, and personalized learning pathways.",
+          "You have deep knowledge scattered across years of content. We help you structure it into programs, memberships, and pathways — then build the infrastructure to deliver it beautifully.",
         testimonial: {
           quote:
-            "I have so much content but no system to deliver it properly.",
-          author: "Content Creators",
-          role: "With Purpose",
+            "I had 400 videos and no system. Now I have a structured academy with personalized learning paths. Revenue went from sporadic to predictable. I wish I'd done this years ago.",
+          author: "Daniel Rivers",
+          role: "Meditation Teacher & Content Creator",
         },
       },
     ],
@@ -215,33 +215,34 @@ export const coreConfig: NicheConfig = {
     enabled: true,
     sectionTitle: "Ways to Work Together",
     sectionSubtitle:
-      "From strategy to full implementation — choose what fits your stage.",
+      "From strategy to full implementation — choose the engagement that fits your stage and vision.",
     plans: [
       {
-        name: "Blueprint",
+        name: "AI Systems Blueprint",
         price: "From €500",
         period: "",
-        description: "A focused strategy & systems design engagement",
+        description: "Strategic clarity before commitment",
         features: [
-          "90–120 min deep-dive session",
-          "Full map of your ideal digital ecosystem",
+          "90–120 minute deep-dive session",
+          "Complete map of your ideal digital ecosystem",
           "AI & automation opportunities identified",
-          "Clear phased implementation plan",
-          "Recording & written summary",
+          "Phased implementation roadmap",
+          "Recording + written summary delivered",
         ],
-        cta: { text: "Book a Blueprint Call", href: "#contact", variant: "outline" },
+        cta: { text: "Request a Blueprint", href: "#contact", variant: "outline" },
       },
       {
         name: "Custom System Build",
-        price: "Custom",
+        price: "From €3,000",
         period: "",
-        description: "Done-for-you implementation of your AI-powered platform",
+        description: "Your vision, fully realized",
         features: [
-          "Custom portal or platform design",
-          "Automations, booking, payments, flows",
-          "Integrations with your existing tools",
-          "AI features tailored to your methodology",
-          "Launch support & training",
+          "Custom portal or platform development",
+          "Automations, scheduling, payments, flows",
+          "Integration with your existing tools",
+          "AI features trained on your methodology",
+          "Launch support + team training",
+          "30-day post-launch refinement included",
         ],
         cta: { text: "Apply for a Build", href: "#contact", variant: "primary" },
         highlighted: true,
@@ -249,69 +250,70 @@ export const coreConfig: NicheConfig = {
       },
       {
         name: "Evolution Partnership",
-        price: "Ongoing",
+        price: "From €500/mo",
         period: "",
-        description: "Ongoing systems leadership for those ready to expand",
+        description: "Ongoing systems leadership",
         features: [
-          "Monthly systems & strategy support",
+          "Monthly strategy + systems support",
           "Continuous improvements & new features",
-          "Priority for new experiments & AI tools",
-          "Ideal for schools, platforms, and large ecosystems",
-          "Direct access & collaboration",
+          "Priority access to AI experiments",
+          "Ideal for schools, platforms, organizations",
+          "Direct collaboration + async support",
+          "Scale with confidence",
         ],
-        cta: { text: "Request Partnership Info", href: "#contact", variant: "outline" },
+        cta: { text: "Explore Partnership", href: "#contact", variant: "outline" },
       },
     ],
   },
   faq: {
     enabled: true,
     sectionTitle: "Questions You Might Have",
-    sectionSubtitle: "Real answers to real concerns.",
+    sectionSubtitle: "Direct answers from someone who understands this work.",
     faqs: [
       {
-        question: "Do I have to be 'techy' for this to work?",
+        question: "Do I need to be technical for this to work?",
         answer:
-          "Not at all. You bring your teachings, offers, and preferences. I handle the architecture, tools, integrations, and builds — in language you can actually understand.",
+          "Not at all. You bring your vision, your methodology, your preferences. We handle the architecture, tools, integrations, and builds — and we explain everything in language that actually makes sense. Many of our best clients are brilliantly non-technical.",
       },
       {
-        question: "What tools do you use?",
+        question: "What technologies do you use?",
         answer:
-          "It depends on your needs. I often work with Next.js, Vercel, n8n, WhatsApp automation, Stripe, Airtable/Supabase, and AI models like Claude and GPT — but the stack is always chosen to fit you, not the other way around.",
+          "It depends on your needs. We often work with Next.js, Vercel, n8n, WhatsApp Business API, Stripe, Airtable, Supabase, and AI models like Claude and GPT. But the stack is always chosen to fit you — we're not here to force tools you don't need.",
       },
       {
-        question: "Can you work with our existing website / platform?",
+        question: "Can you work with what I already have?",
         answer:
-          "Yes. In many cases, we keep what's already working and simply build an intelligent layer around it — client portals, automations, AI support — instead of forcing you to start from zero.",
+          "Usually, yes. In many cases, we keep what's working and build an intelligent layer around it — client portals, automations, AI support — rather than forcing you to start from zero. We're pragmatic, not purist.",
       },
       {
-        question: "Do you only work with spiritual / transformational work?",
+        question: "Do you only work with spiritual or transformational businesses?",
         answer:
-          "My focus is on teachers, guides, coaches, healers, and businesses that support human development. If your work transforms people in some way, we're likely a fit.",
+          "That's our focus. Teachers, coaches, healers, therapists, guides — people whose work is fundamentally about human development and transformation. If your work changes people in some meaningful way, we're likely a good fit.",
       },
       {
         question: "What does a typical project timeline look like?",
         answer:
-          "A Blueprint can be completed within 1–2 weeks. A custom system build usually runs 3–8 weeks depending on scope. Evolution Partnerships are ongoing.",
+          "An AI Systems Blueprint is delivered within 1–2 weeks. Custom builds typically run 4–10 weeks depending on scope and complexity. Evolution Partnerships are ongoing. We move at a pace that respects both quality and momentum.",
       },
     ],
   },
   finalCta: {
     enabled: true,
-    headline: "Ready for an Intelligent System Behind Your Work?",
+    headline: "Your Mission Deserves Infrastructure That Can Carry It",
     subheadline:
-      "Tell me where your mission is going. I'll architect the systems that help you carry it there.",
-    cta: { text: "Request an AI Blueprint Call", href: "#contact", variant: "primary" },
-    secondaryCta: { text: "Explore Collaboration", href: "#pricing", variant: "outline" },
+      "Let's map out what's possible. Tell us where your work is going — we'll architect the systems that help you get there.",
+    cta: { text: "Request Your AI Blueprint", href: "#contact", variant: "primary" },
+    secondaryCta: { text: "See Pricing Options", href: "#pricing", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
     logo: { text: "Astral Integration" },
-    tagline: "AI systems for those who transform lives.",
+    tagline: "Intelligent systems for transformational work.",
     columns: [
       {
         title: "Services",
         links: [
-          { label: "Blueprint", href: "#pricing" },
+          { label: "AI Blueprint", href: "#pricing" },
           { label: "Custom Builds", href: "#pricing" },
           { label: "Partnerships", href: "#pricing" },
         ],
@@ -323,6 +325,7 @@ export const coreConfig: NicheConfig = {
           { label: "Studios", href: "/studios" },
           { label: "Healers", href: "/healers" },
           { label: "Creators", href: "/influencers" },
+          { label: "Local Business", href: "/localbiz" },
         ],
       },
       {

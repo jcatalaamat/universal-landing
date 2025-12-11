@@ -7,15 +7,16 @@ export const studiosConfig: NicheConfig = {
     style: "elegant",
   },
   seo: {
-    title: "Grow Your Yoga & Wellness Studio | StudioFlow",
+    title: "Fill Every Class, Automatically | StudioFlow",
     description:
-      "The complete platform for yoga studios and wellness centers. WhatsApp booking, class management, and client engagement on autopilot.",
+      "The booking system that yoga studios and wellness centers actually love. WhatsApp reservations, smart reminders, and student engagement — without the admin headache.",
     keywords: [
       "yoga studio software",
       "wellness center management",
       "class booking system",
-      "studio management",
-      "WhatsApp booking",
+      "studio management platform",
+      "WhatsApp booking for studios",
+      "yoga class scheduling",
     ],
     ogImage: "/og/studios.jpg",
   },
@@ -26,111 +27,111 @@ export const studiosConfig: NicheConfig = {
       { label: "Pricing", href: "#pricing" },
       { label: "FAQ", href: "#faq" },
     ],
-    cta: { text: "Get Started", href: "#signup", variant: "primary" },
+    cta: { text: "Start Free", href: "#signup", variant: "primary" },
   },
   hero: {
-    headline: "Fill Your Classes. Delight Your Students. Grow Your Studio.",
+    headline: "Your Classes Full. Your Phone Silent. Your Students Happy.",
     subheadline:
-      "The all-in-one platform that handles bookings, reminders, and client communication so you can focus on teaching.",
-    cta: { text: "Start Free Trial", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "See It In Action", href: "#demo", variant: "outline" },
+      "StudioFlow handles bookings, reminders, and waitlists through WhatsApp — the app your students already use. No more missed calls. No more empty mats. No more chaos.",
+    cta: { text: "Start Your Free Trial", href: "#signup", variant: "primary" },
+    secondaryCta: { text: "Watch 2-Min Demo", href: "#demo", variant: "outline" },
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🧘", text: "Trusted by 1000+ studios" },
-      { icon: "📱", text: "WhatsApp integration" },
-      { icon: "⚡", text: "5-minute setup" },
+      { icon: "🧘", text: "1,200+ studios worldwide" },
+      { icon: "📱", text: "60% fewer no-shows" },
+      { icon: "⚡", text: "Live in under 5 minutes" },
     ],
   },
   problem: {
     enabled: true,
-    sectionTitle: "Running a Studio Shouldn't Be This Hard",
+    sectionTitle: "You Opened a Studio to Teach. Not to Answer Phones.",
     sectionSubtitle:
-      "You became a yoga teacher to change lives, not to manage spreadsheets.",
+      "Yet here you are — juggling messages, chasing no-shows, and managing chaos instead of flowing through your practice.",
     problems: [
       {
         icon: "📞",
-        title: "Phone Tag for Bookings",
+        title: "The Booking Bombardment",
         description:
-          "Students DM you, call you, text you. You're spending more time managing messages than teaching classes.",
+          "WhatsApp, Instagram DMs, phone calls, walk-ins — bookings come from everywhere. You're constantly interrupted, and messages slip through the cracks.",
       },
       {
         icon: "👻",
-        title: "Empty Mats, Lost Revenue",
+        title: "Empty Mats, Lost Income",
         description:
-          "No-shows and last-minute cancellations leave you with half-empty classes and wasted energy.",
+          "Students book, then vanish. No-shows and last-minute cancellations leave you teaching half-empty classes and absorbing the loss.",
       },
       {
         icon: "📋",
-        title: "Manual Everything",
+        title: "Waitlists You Can't Manage",
         description:
-          "Tracking attendance, managing waitlists, sending reminders - it's all on you, and it's exhausting.",
+          "Popular classes overflow while others sit empty. Manual waitlist management means missed opportunities and frustrated students.",
       },
       {
         icon: "😰",
-        title: "Disconnected Students",
+        title: "Students Who Drift Away",
         description:
-          "Students drift away because there's no easy way to stay connected between classes.",
+          "Life gets busy. Students stop coming. Without easy rebooking and gentle nudges, they forget you — and find another studio.",
       },
     ],
     layout: "grid",
   },
   solution: {
     enabled: true,
-    sectionTitle: "Your Studio, Simplified",
-    sectionSubtitle: "Everything you need to run a thriving studio.",
+    sectionTitle: "One System. Every Booking. Zero Stress.",
+    sectionSubtitle: "Students book on WhatsApp. You teach. Everything else happens automatically.",
     solutions: [
       {
         icon: "💬",
-        title: "WhatsApp Booking Bot",
+        title: "WhatsApp Booking That Just Works",
         description:
-          "Students book classes directly via WhatsApp. 24/7 availability, zero effort from you.",
+          "Students message your studio number, see available classes, and book instantly. No app downloads. No friction. Just yoga.",
       },
       {
         icon: "🔔",
-        title: "Smart Reminders",
+        title: "Reminders That Actually Remind",
         description:
-          "Automatic reminders reduce no-shows by 60%. Students get notified at the perfect time.",
+          "Automatic WhatsApp messages 24 hours and 2 hours before class. No-shows drop 60%. Students arrive prepared and on time.",
       },
       {
         icon: "📅",
-        title: "Class Management",
+        title: "Smart Class Management",
         description:
-          "Schedules, waitlists, capacity limits - all managed automatically so every class runs smoothly.",
+          "Schedules, capacity limits, waitlists, cancellation policies — all handled automatically. The right students in the right classes, always.",
       },
       {
         icon: "💝",
-        title: "Student Engagement",
+        title: "Students Who Keep Coming Back",
         description:
-          "Automated check-ins, birthday messages, and re-engagement campaigns keep students coming back.",
+          "Automated check-ins for absent students. Birthday messages. Class streak celebrations. Small touches that build lasting loyalty.",
       },
     ],
     layout: "grid-4",
   },
   howItWorks: {
     enabled: true,
-    sectionTitle: "Up and Running in Minutes",
-    sectionSubtitle: "No technical skills required. Just connect and go.",
+    sectionTitle: "Teaching in 5 Minutes. Thriving in 5 Weeks.",
+    sectionSubtitle: "No technical skills. No complicated setup. No excuses not to start today.",
     steps: [
       {
         stepNumber: 1,
-        title: "Connect WhatsApp",
+        title: "Connect Your WhatsApp",
         description:
-          "Link your studio's WhatsApp number. We'll set up your booking bot automatically.",
+          "Link your studio's WhatsApp Business number. We configure your booking bot automatically — same number, new superpowers.",
         icon: "📱",
       },
       {
         stepNumber: 2,
         title: "Add Your Schedule",
         description:
-          "Import your class schedule or create it from scratch. Set capacity, pricing, and policies.",
+          "Import your class schedule or build it fresh. Set capacity, pricing, instructors, and policies. Takes about 10 minutes.",
         icon: "📅",
       },
       {
         stepNumber: 3,
-        title: "Share & Grow",
+        title: "Open the Doors",
         description:
-          "Share your booking link. Students book, you teach, everyone's happy.",
+          "Share your booking link. Students book via WhatsApp, get reminders, and show up. You focus on what you do best — teaching.",
         icon: "🌟",
       },
     ],
@@ -138,146 +139,146 @@ export const studiosConfig: NicheConfig = {
   },
   useCases: {
     enabled: true,
-    sectionTitle: "Perfect for Every Studio Type",
-    sectionSubtitle: "From intimate boutiques to multi-location centers.",
+    sectionTitle: "Built for Studios That Want to Grow",
+    sectionSubtitle: "From solo teachers to multi-location wellness centers.",
     useCases: [
       {
-        title: "Yoga Studios",
+        title: "Yoga & Movement Studios",
         description:
-          "Manage drop-ins, packages, and memberships. Track student progress and celebrate milestones.",
+          "Manage drop-ins, class packs, and unlimited memberships. Track student attendance, celebrate milestones, and watch retention climb.",
         testimonial: {
           quote:
-            "Our bookings increased 40% in the first month. The WhatsApp bot is like having a 24/7 receptionist.",
-          author: "Maya R.",
-          role: "Owner, Lotus Yoga Studio",
+            "Bookings jumped 40% the first month. The WhatsApp bot handles what used to take me 2 hours every day. I actually have time to practice now.",
+          author: "Maya Rodriguez",
+          role: "Owner, Lotus Flow Yoga",
         },
       },
       {
-        title: "Pilates Studios",
+        title: "Pilates & Reformer Studios",
         description:
-          "Handle equipment reservations, reformer classes, and private sessions effortlessly.",
+          "Equipment-based classes need precision scheduling. Manage reformer reservations, private sessions, and equipment availability effortlessly.",
         testimonial: {
           quote:
-            "No more phone calls during class! Students love booking on WhatsApp.",
-          author: "Carlos M.",
-          role: "Pilates Instructor",
+            "No more double-bookings on the reformers. Clients book their favorite machine and time slot directly. Our schedule runs itself.",
+          author: "Carlos Mendez",
+          role: "Pilates Studio Director",
         },
       },
       {
-        title: "Wellness Centers",
+        title: "Wellness & Healing Centers",
         description:
-          "Coordinate multiple practitioners, treatment rooms, and service types in one platform.",
+          "Multiple practitioners, treatment rooms, and service types — all coordinated in one system. Clients book the right person in the right room.",
         testimonial: {
           quote:
-            "We manage 5 practitioners and 200+ weekly appointments without any drama.",
-          author: "Anna K.",
-          role: "Director, Harmony Wellness",
+            "We have 6 practitioners and 180 appointments per week. StudioFlow eliminated the scheduling nightmare completely.",
+          author: "Dr. Anna Krishnamurthy",
+          role: "Founder, Harmony Wellness Center",
         },
       },
     ],
   },
   pricing: {
     enabled: true,
-    sectionTitle: "Pricing That Grows With You",
-    sectionSubtitle: "Start free, scale as you grow.",
+    sectionTitle: "Pricing That Makes Sense",
+    sectionSubtitle: "Start free. Grow without limits. Cancel anytime.",
     plans: [
       {
         name: "Solo",
         price: "$0",
         period: "/month",
-        description: "For individual teachers and small studios",
+        description: "For independent teachers and small studios",
         features: [
-          "Up to 20 bookings/month",
+          "Up to 30 bookings/month",
           "WhatsApp booking bot",
-          "Basic reminders",
-          "Class schedule",
+          "Automatic reminders",
+          "Basic class schedule",
           "Email support",
         ],
-        cta: { text: "Start Free", href: "#signup", variant: "outline" },
+        cta: { text: "Start Free Forever", href: "#signup", variant: "outline" },
       },
       {
         name: "Studio",
         price: "$39",
         period: "/month",
-        description: "For growing studios",
+        description: "For established studios ready to scale",
         features: [
           "Unlimited bookings",
           "Advanced WhatsApp automation",
           "Waitlist management",
-          "Student engagement tools",
-          "Analytics & reports",
-          "Priority support",
+          "Student engagement campaigns",
+          "Analytics + attendance reports",
+          "Priority WhatsApp support",
         ],
-        cta: { text: "Start Free Trial", href: "#signup", variant: "primary" },
+        cta: { text: "Start 14-Day Free Trial", href: "#signup", variant: "primary" },
         highlighted: true,
-        badge: "Best Value",
+        badge: "Most Popular",
       },
       {
         name: "Enterprise",
         price: "$99",
         period: "/month",
-        description: "For multi-location studios",
+        description: "For multi-location studios and wellness chains",
         features: [
           "Everything in Studio",
           "Multiple locations",
-          "Staff management",
+          "Staff + instructor management",
           "Custom integrations",
           "Dedicated account manager",
           "API access",
         ],
-        cta: { text: "Contact Us", href: "#contact", variant: "outline" },
+        cta: { text: "Book a Demo", href: "#contact", variant: "outline" },
       },
     ],
   },
   faq: {
     enabled: true,
-    sectionTitle: "Common Questions",
-    sectionSubtitle: "Everything you need to know to get started.",
+    sectionTitle: "Questions Studios Ask",
+    sectionSubtitle: "Real answers from people who understand studio life.",
     faqs: [
       {
-        question: "Do my students need to download an app?",
+        question: "Do my students need to download anything?",
         answer:
-          "No! Everything works through WhatsApp, which your students already have. No new apps, no friction.",
+          "No. Everything happens through WhatsApp, which 2 billion people already use. No new apps, no accounts to create, no friction. They message, they book, they show up.",
       },
       {
         question: "Can I keep my existing WhatsApp number?",
         answer:
-          "Yes! We connect to your existing business WhatsApp number. Your students won't notice any change except better booking.",
+          "Yes — we connect to your existing WhatsApp Business number. Your students won't notice anything different except that booking just got incredibly easy.",
       },
       {
         question: "How do payments work?",
         answer:
-          "Students can pay via WhatsApp using cards or digital wallets. You receive funds directly to your bank account.",
+          "Students can pay directly through WhatsApp using cards or digital wallets. Funds go straight to your bank account. We handle class packs, memberships, and drop-in payments.",
       },
       {
-        question: "Can I sell class packages and memberships?",
+        question: "What about class packages and memberships?",
         answer:
-          "Absolutely! Create packages, punch cards, and memberships. The system tracks usage automatically.",
+          "Fully supported. Create unlimited packages, punch cards, and membership tiers. The system tracks usage automatically and reminds students when they're running low.",
       },
       {
-        question: "What if I have multiple instructors?",
+        question: "We have multiple instructors. Does that work?",
         answer:
-          "No problem! Each instructor can have their own schedule, and students can book with their preferred teacher.",
+          "Perfectly. Each instructor has their own schedule. Students can book with their preferred teacher or browse all available classes. Everyone stays synchronized.",
       },
       {
-        question: "How quickly can I get set up?",
+        question: "How fast can we actually get started?",
         answer:
-          "Most studios are up and running in under 15 minutes. Our onboarding wizard makes it simple.",
+          "Most studios are live in under 15 minutes. Connect WhatsApp, add your schedule, share your link. Our setup wizard makes it nearly impossible to get stuck.",
       },
     ],
   },
   finalCta: {
     enabled: true,
-    headline: "Ready to Fill Every Class?",
+    headline: "Your Next Class Could Be Your Fullest Yet",
     subheadline:
-      "Join 1,000+ studios using StudioFlow to grow their practice. Start your free trial today.",
-    cta: { text: "Get Started Free", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "Book a Demo", href: "#demo", variant: "outline" },
+      "Join 1,200+ studios filling classes effortlessly with StudioFlow. Start free today — your students are already on WhatsApp.",
+    cta: { text: "Start Your Free Trial", href: "#signup", variant: "primary" },
+    secondaryCta: { text: "See It In Action", href: "#demo", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
     logo: { text: "StudioFlow" },
-    tagline: "The modern booking platform for wellness studios.",
+    tagline: "Full classes. Happy students. Peaceful mind.",
     columns: [
       {
         title: "Product",

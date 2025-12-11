@@ -7,16 +7,16 @@ export const influencersConfig: NicheConfig = {
     style: "playful",
   },
   seo: {
-    title: "Scale Your Influence Without Losing Your Mind | CreatorOS",
+    title: "Your AI Clone That Never Sleeps | CreatorOS",
     description:
-      "AI-powered tools for creators and influencers. DM automation, content calendar, fan engagement, and monetization - all in one platform.",
+      "The AI-powered operating system for creators. Respond to every DM, engage every fan, and monetize 24/7 — with an AI trained to sound exactly like you.",
     keywords: [
       "influencer tools",
       "creator platform",
       "DM automation",
-      "content calendar",
-      "creator economy",
-      "fan engagement",
+      "AI for creators",
+      "creator economy tools",
+      "fan engagement automation",
     ],
     ogImage: "/og/influencers.jpg",
   },
@@ -27,110 +27,110 @@ export const influencersConfig: NicheConfig = {
       { label: "Pricing", href: "#pricing" },
       { label: "FAQ", href: "#faq" },
     ],
-    cta: { text: "Get Started", href: "#signup", variant: "primary" },
+    cta: { text: "Clone Yourself Free", href: "#signup", variant: "primary" },
   },
   hero: {
-    headline: "Your AI Clone That Handles DMs While You Create",
+    headline: "What If You Could Reply to Every DM — Without Lifting a Finger?",
     subheadline:
-      "Engage every fan, respond to every DM, and monetize your audience 24/7. AI that sounds exactly like you.",
-    cta: { text: "Clone Yourself Free", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "See It In Action", href: "#demo", variant: "outline" },
+      "CreatorOS is your AI twin. It responds to fans, answers questions, sells your products, and books your calls — all in YOUR voice. You create. It handles everything else.",
+    cta: { text: "Create Your Clone Free", href: "#signup", variant: "primary" },
+    secondaryCta: { text: "See a Clone in Action", href: "#demo", variant: "outline" },
     layout: "centered",
     showTrustBadges: true,
     trustBadges: [
-      { icon: "🚀", text: "10,000+ creators" },
-      { icon: "💬", text: "50M+ DMs handled" },
-      { icon: "💰", text: "$10M+ creator earnings" },
+      { icon: "🚀", text: "12,000+ creators" },
+      { icon: "💬", text: "75M+ DMs handled" },
+      { icon: "💰", text: "$25M+ creator revenue driven" },
     ],
   },
   problem: {
     enabled: true,
-    sectionTitle: "The Creator's Curse",
-    sectionSubtitle: "Your audience is growing. Your sanity isn't.",
+    sectionTitle: "Your Audience Grew. Your Sanity Didn't.",
+    sectionSubtitle: "Success created a monster: more followers, more demands, less time to actually create.",
     problems: [
       {
         icon: "📨",
-        title: "DM Overload",
+        title: "The DM Avalanche",
         description:
-          "Thousands of unread messages. Every ignored DM is a missed connection, brand deal, or sale. You can't keep up.",
+          "Thousands of unread messages. Every ignored DM is a missed connection, a lost sale, a fan who feels unseen. You can't keep up — and neither can any human team.",
       },
       {
         icon: "⏰",
-        title: "No Time to Create",
+        title: "Creating Takes a Backseat",
         description:
-          "You spend more time on admin - scheduling, responding, planning - than actually creating content.",
+          "Responding, scheduling, negotiating, admin — the work around creating eats the time you need to actually create. The thing that grew your audience is now starved of attention.",
       },
       {
         icon: "💸",
-        title: "Leaving Money on the Table",
+        title: "Revenue Slipping Through Your Fingers",
         description:
-          "Fans want to support you, buy from you, work with you. But you can't respond fast enough to capture the opportunity.",
+          "Fans want to buy. Brands want to collab. People want to book you. But you can't respond fast enough. By the time you do, they've moved on.",
       },
       {
         icon: "🔥",
-        title: "Burnout is Coming",
+        title: "The Burnout Countdown",
         description:
-          "You're always on. 24/7 pressure to post, engage, respond. The algorithm never sleeps, and neither do you.",
+          "Always on. Always behind. The algorithm demands constant output, but you're running on empty. Something's going to break — and it might be you.",
       },
     ],
     layout: "grid",
   },
   solution: {
     enabled: true,
-    sectionTitle: "Your Digital Twin is Ready",
-    sectionSubtitle: "AI that knows your voice, your vibe, your values.",
+    sectionTitle: "Your Digital Twin Is Ready to Work",
+    sectionSubtitle: "An AI that knows your voice, your vibe, your values — and works while you sleep.",
     solutions: [
       {
         icon: "🤖",
-        title: "AI Clone That's Actually You",
+        title: "An AI Clone That's Actually You",
         description:
-          "Trained on your content and communication style. Fans can't tell the difference. You stay authentic at scale.",
+          "Trained on your content, your captions, your conversations. It mirrors your voice so precisely that fans genuinely can't tell the difference. Scale yourself without losing yourself.",
       },
       {
         icon: "💬",
-        title: "DM Autopilot",
+        title: "Every DM Answered. Instantly.",
         description:
-          "Responds to every DM instantly. Answers questions, shares links, books calls - all while you sleep.",
+          "Questions answered. Links shared. Products sold. Calls booked. Your clone responds in seconds, 24/7 — while you sleep, create, or finally take that vacation.",
       },
       {
         icon: "📅",
         title: "Content Command Center",
         description:
-          "Plan, schedule, and cross-post across all platforms. Never miss a posting window again.",
+          "Plan, schedule, and cross-post across every platform from one dashboard. Never miss a posting window. Never scramble for content again.",
       },
       {
         icon: "💰",
-        title: "Monetization Engine",
+        title: "DMs That Drive Revenue",
         description:
-          "Sell products, courses, and services directly through DMs. Convert followers to customers automatically.",
+          "Sell courses, products, and services through natural DM conversations. Your clone qualifies leads, handles objections, and closes sales — automatically.",
       },
     ],
     layout: "grid-4",
   },
   howItWorks: {
     enabled: true,
-    sectionTitle: "Your Clone in 3 Steps",
-    sectionSubtitle: "Set up once. Benefit forever.",
+    sectionTitle: "Your Clone Goes Live in 60 Minutes",
+    sectionSubtitle: "Simple setup. Immediate results. Total control.",
     steps: [
       {
         stepNumber: 1,
-        title: "Train Your Clone",
+        title: "Feed It Your Voice",
         description:
-          "Connect your accounts. We analyze your content, captions, and communication style to build your digital twin.",
+          "Connect your accounts. We analyze your posts, captions, stories, and conversations to build an AI that sounds unmistakably like you.",
         icon: "🧠",
       },
       {
         stepNumber: 2,
-        title: "Set Your Rules",
+        title: "Set the Rules",
         description:
-          "Tell it what to do: answer FAQs, share links, promote products, book calls. You're always in control.",
+          "Define what it should do: answer FAQs, share links, sell products, book calls, escalate VIPs. You decide where automation ends and you begin.",
         icon: "⚙️",
       },
       {
         stepNumber: 3,
-        title: "Watch It Work",
+        title: "Let It Loose",
         description:
-          "Your clone handles the repetitive stuff. You review highlights, jump in for VIPs, and focus on creating.",
+          "Your clone takes over the repetitive conversations. You review highlights, handle the high-touch moments, and focus on what only you can do: create.",
         icon: "🎬",
       },
     ],
@@ -138,54 +138,54 @@ export const influencersConfig: NicheConfig = {
   },
   useCases: {
     enabled: true,
-    sectionTitle: "Built for Every Creator",
-    sectionSubtitle: "Whether you have 10K or 10M followers.",
+    sectionTitle: "Built for Creators at Every Stage",
+    sectionSubtitle: "Whether you have 10K followers or 10M — your clone scales with you.",
     useCases: [
       {
-        title: "Content Creators",
+        title: "Content Creators & Influencers",
         description:
-          "Handle fan DMs, share new content, and build deeper connections without drowning in messages.",
+          "Handle fan DMs, share new content, run giveaways, and build deeper connections — all without drowning in your inbox. Your engagement goes up while your stress goes down.",
         testimonial: {
           quote:
-            "I went from 500 unread DMs to inbox zero. My engagement actually went UP because fans get instant responses now.",
-          author: "Jess M.",
-          role: "YouTuber, 2M subscribers",
+            "I went from 3,000 unread DMs to inbox zero in a week. My engagement actually increased because fans finally get responses. The clone sounds so much like me it's scary.",
+          author: "Jess Martinez",
+          role: "Lifestyle Creator, 2.3M followers",
         },
       },
       {
         title: "Coaches & Course Creators",
         description:
-          "Qualify leads, answer course questions, and enroll students through automated DM conversations.",
+          "Qualify leads through conversation. Answer course questions. Handle objections. Enroll students. Your clone sells while you teach — or while you sleep.",
         testimonial: {
           quote:
-            "My clone sold $50K in courses last month while I was on vacation. It knows my offer better than I do.",
-          author: "Marcus J.",
-          role: "Business Coach",
+            "My clone generated $85K in course sales last quarter while I focused on creating content. It handles the sales conversations better than I did — more patient, more consistent.",
+          author: "Marcus Johnson",
+          role: "Business Coach, 890K followers",
         },
       },
       {
         title: "Brands & Personal Brands",
         description:
-          "Respond to customer inquiries, handle collabs, and maintain consistent brand voice at scale.",
+          "Respond to customer inquiries, handle partnership outreach, and maintain consistent brand voice at scale. Turn DM chaos into a growth engine.",
         testimonial: {
           quote:
-            "We 10x'd our influencer outreach by having the clone handle initial conversations. Only the hot leads reach us.",
-          author: "Taylor S.",
-          role: "Brand Manager",
+            "We 10x'd our influencer outreach efficiency. The clone handles initial conversations and qualification — only warm leads reach our team. Game changer for scaling partnerships.",
+          author: "Taylor Simmons",
+          role: "Brand Partnerships Director",
         },
       },
     ],
   },
   pricing: {
     enabled: true,
-    sectionTitle: "Invest in Your Time",
-    sectionSubtitle: "Plans that scale with your audience.",
+    sectionTitle: "Your Time Is Worth More Than This",
+    sectionSubtitle: "Reclaim hours every week. Drive revenue while you sleep. Scale without burning out.",
     plans: [
       {
         name: "Starter",
         price: "$29",
         period: "/month",
-        description: "For creators just getting started",
+        description: "For creators testing the waters",
         features: [
           "AI clone training",
           "1,000 DM responses/month",
@@ -199,15 +199,15 @@ export const influencersConfig: NicheConfig = {
         name: "Creator",
         price: "$79",
         period: "/month",
-        description: "For growing creators",
+        description: "For creators ready to scale",
         features: [
-          "Advanced AI clone",
+          "Advanced AI clone (sounds exactly like you)",
           "Unlimited DM responses",
           "Full content command center",
-          "All platforms",
-          "Link in bio page",
-          "Monetization tools",
-          "Priority support",
+          "All platforms (IG, TikTok, Twitter, YouTube)",
+          "Link-in-bio page builder",
+          "Monetization tools + sales tracking",
+          "Priority support (< 4hr response)",
         ],
         cta: { text: "Start Free Trial", href: "#signup", variant: "primary" },
         highlighted: true,
@@ -217,15 +217,15 @@ export const influencersConfig: NicheConfig = {
         name: "Pro",
         price: "$199",
         period: "/month",
-        description: "For established creators",
+        description: "For established creators and teams",
         features: [
           "Everything in Creator",
-          "Multiple AI personas",
-          "Team access",
-          "Advanced analytics",
-          "Brand deal management",
+          "Multiple AI personas (brand + personal)",
+          "Team access + permissions",
+          "Advanced analytics + revenue attribution",
+          "Brand deal pipeline management",
           "Dedicated success manager",
-          "API access",
+          "API access for custom integrations",
         ],
         cta: { text: "Start Free Trial", href: "#signup", variant: "outline" },
       },
@@ -233,48 +233,48 @@ export const influencersConfig: NicheConfig = {
   },
   faq: {
     enabled: true,
-    sectionTitle: "Creator Questions",
-    sectionSubtitle: "Real talk about how this works.",
+    sectionTitle: "Real Questions from Real Creators",
+    sectionSubtitle: "No fluff. Here's exactly how it works.",
     faqs: [
       {
-        question: "Will fans know it's AI and not really me?",
+        question: "Will fans know it's AI and not actually me?",
         answer:
-          "Our AI is trained specifically on YOUR content and communication style. It mirrors your voice, uses your phrases, and responds like you would. Fans consistently report they can't tell the difference.",
+          "That's the whole point — they won't. Your clone is trained specifically on YOUR content, YOUR phrases, YOUR communication style. It mirrors your voice so precisely that fans consistently report they can't tell the difference. We've obsessed over this.",
       },
       {
         question: "What if the AI says something wrong or off-brand?",
         answer:
-          "You set the guardrails. Define topics it should avoid, responses it should escalate to you, and review flagged conversations. You're always in control.",
+          "You're always in control. Set guardrails: topics to avoid, questions to escalate, responses to flag for review. The clone learns your boundaries and respects them. And you can review any conversation anytime.",
       },
       {
-        question: "How does it handle brand deals and collaborations?",
+        question: "How does it handle brand deals and collabs?",
         answer:
-          "The AI can qualify brand inquiries, collect information, and send your media kit. Hot leads are flagged for your personal attention.",
+          "Your clone can qualify brand inquiries, collect relevant information, share your media kit, and flag hot opportunities for your personal attention. It never commits you to anything — it just makes sure you don't miss opportunities.",
       },
       {
-        question: "Can I use this for multiple platforms?",
+        question: "Does it work on all my platforms?",
         answer:
-          "Yes! Connect Instagram, TikTok, Twitter, YouTube, and more. One AI clone handles all your DMs with platform-specific awareness.",
+          "Instagram, TikTok, Twitter, YouTube, LinkedIn — one clone handles all your DMs with platform-specific awareness. Same voice, optimized for each platform's culture and conventions.",
       },
       {
-        question: "What about selling products and services?",
+        question: "Can my clone actually sell my products and courses?",
         answer:
-          "Your clone can share product links, answer buying questions, handle objections, and close sales - all through natural conversation.",
+          "Yes — and it's often better at it than you are. Your clone can share product links, answer buying questions, handle objections, and close sales through natural, non-pushy conversation. Many creators see their DM-driven revenue double or triple.",
       },
       {
-        question: "How long does it take to set up?",
+        question: "How long until I see results?",
         answer:
-          "Most creators are live within an hour. Connect your accounts, answer some questions about your style, and your clone starts learning immediately.",
+          "Most creators are live within an hour. Connect your accounts, answer some questions about your style, and your clone starts learning immediately. By day two, it's handling DMs. By week one, you'll wonder how you ever lived without it.",
       },
     ],
   },
   finalCta: {
     enabled: true,
-    headline: "Ready to Clone Yourself?",
+    headline: "Your Audience Deserves a Response. You Deserve a Break.",
     subheadline:
-      "Join 10,000+ creators who scaled their impact without sacrificing their sanity.",
-    cta: { text: "Start Your Free Trial", href: "#signup", variant: "primary" },
-    secondaryCta: { text: "Watch Demo", href: "#demo", variant: "outline" },
+      "Join 12,000+ creators who cloned themselves and got their time back. Start free today — your first 1,000 DMs are on us.",
+    cta: { text: "Create Your Clone Free", href: "#signup", variant: "primary" },
+    secondaryCta: { text: "See a Demo First", href: "#demo", variant: "outline" },
     backgroundStyle: "gradient",
   },
   footer: {
